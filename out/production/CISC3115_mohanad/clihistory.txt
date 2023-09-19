@@ -1,0 +1,19 @@
+mohanedmohamed@mohaneds-MacBook-Pro ~ % cd CISC3115_mohanad
+
+mohanedmohamed@mohaneds-MacBook-Pro CISC3115_mohanad % pwd
+
+/Users/mohanedmohamed/CISC3115_mohanad
+
+mohanedmohamed@mohaneds-MacBook-Pro CISC3115_mohanad % cd Users/mohanedmohamed/CISC3115_mohanad/javacode
+
+mohanedmohamed@mohaneds-MacBook-Pro javacode % cd ..
+
+mohanedmohamed@mohaneds-MacBook-Pro CISC3115_mohanad % cd javacode
+
+mohanedmohamed@mohaneds-MacBook-Pro javacode % cd ..
+
+mohanedmohamed@mohaneds-MacBook-Pro CISC3115_mohanad % ls
+assignment1	javacode
+
+mohanedmohamed@mohaneds-MacBook-Pro CISC3115_mohanad % touch clihistory.txt
+
